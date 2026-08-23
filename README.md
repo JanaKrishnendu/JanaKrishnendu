@@ -44,7 +44,7 @@
 
 </div>
 
-> **Toroidal k-Means** designs a novel k-Means distance metric on the 2D-torus (using φ–ψ dihedral angles / Ramachandran plots) to uncover structural patterns in protein folding.
+> **Toroidal k-Means** designs a novel k-Means distance metric on the 2D-torus (using φ–ψ dihedral angles / Ramachandran plots) to uncover structural patterns in protein folding. Beats naive Euclidean k-means (ARI 0.97 vs 0.59) on synthetic seam-straddling clusters — [see live interactive 3D demo →](https://rawcdn.githack.com/JanaKrishnendu/Toroidal-k-Means/main/results/torus3d_synthetic.html)
 > **Machine Learning Page** is an interactive digital textbook covering AI/ML fundamentals for a B.Tech course.
 
 Also building: a **transformer-based deep learning framework for histopathological image classification** (in progress).
