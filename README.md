@@ -20,6 +20,7 @@
 - 🧑‍🏫 Currently **Assistant Professor, School of Computing** at MIT Vishwaprayag University, Solapur — teaching Machine Learning, EDA & Data Visualization, Python, and Design & Analysis of Algorithms
 - 🔬 Researching a **deep learning pipeline for histopathological image classification** using transformer-based architectures and attention-based interpretability
 - 🧠 Background spans **Machine Learning, Deep Learning, and pure Mathematics** (Real Analysis, Manifolds, Numerical Analysis)
+- 🌱 Currently exploring **transformer-based architectures and attention interpretability** for medical image analysis
 - 🏆 **GATE 2022** Qualified — AIR 621 (Mathematical Science) · **CSIR-NET JRF** — AIR 198 · **CSIR-NET LS** — AIR 118
 - 📝 Published: *Integrating Problem-Based Learning and Design Thinking for Sustainability*, IRSPBL 2025
 
@@ -57,6 +58,21 @@ Also building: a **transformer-based deep learning framework for histopathologic
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanaKrishnendu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 
+</div>
+
+### 🏅 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=JanaKrishnendu&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JanaKrishnendu/JanaKrishnendu/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/JanaKrishnendu/JanaKrishnendu/output/github-contribution-grid-snake.svg" />
+</picture>
 </div>
 
 ---
